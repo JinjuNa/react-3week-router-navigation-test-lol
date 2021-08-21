@@ -1,0 +1,12 @@
+.navigation-container{
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.navigation-container a {
+    display: block;
+    padding: 20px;
+    background-color: #eee;
+    margin: 5px;
+}
